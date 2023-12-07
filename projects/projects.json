@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Website Play Anime Movie",
+    "desc": "Situs Website yang digunakan untuk memutar film Anime",
+    "image": "Movie",
+    "category": "website",
+    "links": {
+      "code": "https://github.com/Naishaltss/AnimePlay"
+    }
+  },
+  {
+    "name": "Be A Programmer",
+    "desc": "Website ini adalah website yang memudahkan bagi orang yang ingin belajar untuk menjadi seorang programmer",
+    "image": "Learn Coding",
+    "category": "Figma",
+    "links": {
+      "code": "https://www.figma.com/file/Udlebxrntzc1S2DVTt1fVJ/Project-Uts?type=design&node-id=6-2&mode=design&t=h8F3wVZYxK2NWl2e-0"
+    }
+  },
+  {
+    "name": "Langkah Ijo",
+    "desc": "Aplikasi peduli lingkungan untuk menghubungkan dan menyediakan wadah bagi para peduli lingkungan",
+    "image": "langjo",
+    "category": "website",
+    "links": {
+      "code": "https://app.visily.ai/projects/54ac4ba2-05a2-43bf-93a5-de14908adb4b/boards/472378"
+    }
+  },
+  {
+    "name": "Kabupaten Nganjuk",
+    "desc": "Merupakan Website yang berfungsi untuk literasi mengenai Kabupaten Nganjuk",
+    "image": "Nganjuk",
+    "category": "website",
+    "links": {
+      "code": "https://github.com/Naishaltss/Kabupaten-Nganjuk/"
+    }
+  }
+]
